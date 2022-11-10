@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venom-2
+- 👋 Hi, I’m Akshat Trivedi currently pursuing my engineering in Computer Science branch
 - 👀 I’m interested in Machine Learning and Blockchain
 - 🌱 I’m currently learning django 
 - 💞️ I’m looking to collaborate on projects based on web development 
