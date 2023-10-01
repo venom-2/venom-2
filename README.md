@@ -1,3 +1,4 @@
+[![An image of @venom2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/venom2)](https://holopin.io/@venom2)
 <h1 align="center">Hi 👋, I'm Akshat Trivedi</h1>
 <h3 align="center">An aspiring Backend Developer from India</h3>
 
