@@ -1,6 +1,6 @@
 [![An image of @venom2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/venom2)](https://holopin.io/@venom2)
-<h1 align="center">Hi 👋, I'm Akshat Trivedi</h1>
-<h3 align="center">An aspiring Backend Developer from India</h3>
+<h1 align="left">Hi 👋, I'm Akshat Trivedi</h1> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spielanime.com%2Fanime%2Fjujutsu-kaisen-chapter-234-spoilers-how-does-gojo-satoru-lose-his-arm-against-sukuna%2F&psig=AOvVaw2ijc0LbTWSOtvuj7LhJLK4&ust=1698048609333000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICwtZWaiYIDFQAAAAAdAAAAABAZ">
+<h3 align="left">An aspiring Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom-2&label=Profile%20views&color=0e75b6&style=flat" alt="venom-2" /> </p>
 
