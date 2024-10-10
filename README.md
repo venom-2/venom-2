@@ -3,7 +3,7 @@
 <h3 align="center">An Aspiring Full Stack Developer from India</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venom-2" alt="venom-2" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venom-2&theme=onedark&title=-Reviews" alt="venom-2" /></a> </p>
 <img align="right" src="https://i0.wp.com/www.spielanime.com/wp-content/uploads/2023/08/Jujutsu-Kaisen-Chapter-234-spoilers-How-does-Gojo-Satoru-lose-his-arm-against-Sukuna-.jpg?resize=1536%2C864&ssl=1" height="250" width="398">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venom-2&label=Profile%20views&color=0e75b6&style=flat" alt="venom-2" /> </p>
